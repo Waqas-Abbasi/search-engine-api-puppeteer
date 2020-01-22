@@ -57,7 +57,7 @@ const searchGoogle = async (searchQuery) => {
             });
         });
 
-        //Return the prased results
+        //Return the top results
         return data;
     });
 
