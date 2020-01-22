@@ -13,7 +13,7 @@ http://localhost:3000/search?searchquery=cats
 ```
 
 Example Response
-```json
+```
 [
   {
     title: 'Cats Are Funny',
