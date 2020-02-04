@@ -4,6 +4,12 @@ Search Engine API with Node/Express and Puppeteer using Google Search
 
 The API scrapes Top Search Results from Google Search
 
+
+To get started, make sure to run `npm install` to install all dependencies
+```
+npm install
+```
+
 To start the server:
 ```
 npm start
